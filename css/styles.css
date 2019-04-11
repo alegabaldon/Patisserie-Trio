@@ -1,0 +1,88 @@
+div {
+    font-family:Courier New;
+}
+
+.title {
+  font-weight: 400;
+  background-color: RGB(218,247,166);
+  text-align: center;
+  padding: 10px;
+}
+
+.navbarDropdown{
+  background-color: RGB(21,122,91);
+  display: flex;
+  justify-content:center;
+}
+
+.subtitle{
+  font-style: 400;
+  text-align: center;
+}
+
+.lead{
+  display:flex;
+  justify-content: space-around;
+}
+
+.carousel{
+  padding-top: 15px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 500px;
+  height: 250px;
+  max-height: 250px;
+  img { width: 40%; margin: auto; }
+}
+
+.card {
+  margin: auto;
+}
+
+.recipe-img {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.ingredients {
+  padding-top: 25px;
+  padding-left: 55px;
+  padding-right: 55px;
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe-name {
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aboutus {
+  text-align: center;
+  justify-content: space-around;
+}
+
+.method {
+  padding-top: 25px;
+  padding-left: 55px;
+  padding-right: 55px;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
